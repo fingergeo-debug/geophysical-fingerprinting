@@ -31,3 +31,4 @@ I'm a small prospector from Mauritania with 2 years of experience in this field.
 
 ## Contact
 If you want to test this on your area or have questions, DM me on Reddit: u/fingergeo17752
+Donate to support project BTC wallet : bc1qlpdvjex8rj24pylkj77g2kcyplxtu37ul82r7g
